@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -345,8 +345,9 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: wordpress 2s ease;
    -webkit-animation: wordpress 2s ease;
 }
-.js {
+.javascript {
    width: 60%;
+   border:"2px solid red";
    -moz-animation: wordpress 2s ease;
    -webkit-animation: wordpress 2s ease;
 }
